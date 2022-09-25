@@ -45,7 +45,7 @@ public class Main {
 			e.printStackTrace();
 		}
 		
-		sc.close();
+		
 		
 	}
 	
@@ -65,7 +65,7 @@ public class Main {
 			System.out.println("File "+f.getName()+" not found or check the name/case sensitivity of file");
 		}
 		
-		sc.close();
+		
 	}
 	
 	public static void searchFile() {
@@ -84,7 +84,7 @@ public class Main {
 			System.out.println("File "+f.getName()+" is not availabe in directory");
 		}
 		
-		sc.close();
+		
 	}
 	
 	
